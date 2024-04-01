@@ -1,3 +1,9 @@
+# Contribution
+I used the original to create a version that worked for my setup. We use this at my church in the lobby to pull the latest slides from out propresenter computer.
+It works 99% of the time, which is awesome for how simple it is.
+
+We use a [BrightSign](https://www.brightsign.biz/) player to host the presentation on out lobby TV. I also included a BrightAuthor Connected presentation file that uses the `simpleloop.html` file.
+
 # Pro7SimplePresentationLoop
 A crude and simple "digital signage" **experiment** for Pro7 all contained in a single simpleloop.html.
 The idea is to that you can copy the `simpleloop.html` file to a spare (small) computer and edit it to connect to your Pro7 setup and display an image slide show of a specific presentation.
